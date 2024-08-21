@@ -10,6 +10,6 @@
   },
   "git": {
     "requireBranch": "main",
-    "pushRepo": "https://github.com/mozilla/readability.git"
+    "pushRepo": "https://github.com/packpackai/readability.git"
   }
 }
