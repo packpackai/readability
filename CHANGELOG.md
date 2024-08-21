@@ -17,10 +17,6 @@ reasonable).
 - [Fix the case that jsonld parse process is ignored when context url include the trailing slash](https://github.com/mozilla/readability/pull/833)
 - [Fixed situations where short paragraphs of legitimate content would be excluded](https://github.com/mozilla/readability/pull/867)
 
-## [0.6.0] - 2024-08-21
-
-- Update Code
-
 ## [0.5.0] - 2023-12-15
 
 - [Add published time metadata](https://github.com/mozilla/readability/pull/813)
