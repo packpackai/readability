@@ -19,6 +19,9 @@
   "bugs": {
     "url": "https://github.com/packpackai/readability/issues"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "engines": {
     "node": ">=14.0.0"
   },
