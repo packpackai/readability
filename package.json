@@ -12,17 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mozilla/readability"
+    "url": "git+https://github.com/packpackai/readability.git"
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/mozilla/readability/issues"
+    "url": "https://github.com/packpackai/readability/issues"
   },
   "engines": {
     "node": ">=14.0.0"
   },
-  "homepage": "https://github.com/mozilla/readability",
+  "homepage": "https://github.com/packpackai/readability",
   "devDependencies": {
     "@release-it/keep-a-changelog": "5.0.0",
     "chai": "4.3.7",
